@@ -3,7 +3,7 @@
 This repository contains the projects developed for the **Stellar Atmospheres** course.
 
 ## 📂 Repository Structure
-- `1_SpectralClassification/` → Brief description of the first project.
+- `1_SpectralClassification/` → Classification of 2 unknown stars
 - `2_AtmosphereModel/` → Brief description of the second project.
 <!--
 - `docs/` → Additional documentation.
