@@ -1,0 +1,3 @@
+# *Stellar Atmospheres: Opacity Calculation Project*
+## 📖 Overview
+This project focuses on calculating opacities in a stellar atmosphere model as part of an academic assignment in the Stellar Atmospheres course (2023-2024). The task involves analyzing three atmospheric models of stars with temperatures of 8000 K, 6000 K, and 4000 K, all with log g = 4.5 and solar composition. These models were generated using the MARCS code (Gustafsson et al., 2008, A&A 486,951).
