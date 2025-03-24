@@ -4,7 +4,7 @@ This repository contains the projects developed for the **Stellar Atmospheres** 
 
 ## 📂 Repository Structure
 - `1_SpectralClassification/` → Classification of 2 unknown stars
-- `2_AtmosphereModel/` → Brief description of the second project.
+- `2_AtmosphereModel/` → Calculating opacities in a stellar atmosphere model by using the MARCS code (Gustafsson et al., 2008, A&A 486,951)
 <!--
 - `docs/` → Additional documentation.
 - `data/` → Shared datasets.
